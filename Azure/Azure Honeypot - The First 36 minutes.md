@@ -44,7 +44,7 @@ Since this is a lab, and not a production environment, I want to see how far I c
 
   Enabling Sysmon for more detailed logs
   
-  Enabling credential logging through RyRDP for password analysis
+  Enabling credential logging through PyRDP for password analysis
   
   Running the test machine for 24 hours
 
