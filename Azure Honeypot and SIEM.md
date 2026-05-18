@@ -284,7 +284,7 @@ Now, go to the VM, under Settings > Extensions + applications. The Monitoring Ag
 
 ## And then...
 
-I have to admit, I wasn't expecting what happened next since I have not opened up the firewall.
+I have to admit, I wasn't expecting what happened next since I have not opened up the firewall. The only open port is 3389 for RDP. I know there is a screenshot showing ports 22, 80, and 443 are also open, but I decided to only have 3389 open to start. 
 
 Head back to the Log Analytics Workspace > LOG-Analytics-SOC-LAB > Logs > KQL mode, then search SecurityEvent.
 
